@@ -1,0 +1,6 @@
+{
+  "name": "Royal Caterers",
+  "description": "Royal Caterers brings delicious food, elegant presentation and professional catering services to weddings, parties, corporate events and special occasions in Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
